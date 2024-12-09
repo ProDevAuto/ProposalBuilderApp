@@ -45,5 +45,10 @@ A **Power Apps model-driven application** designed to streamline the presales pr
 
 ---
 
+## Video:
+Full Video https://www.youtube.com/watch?v=Vq67J4PyJxE&list=PLQblSszTOxyzEw0DfkDgI9j_incp4lSYr&index=2
+
+---
+
 ## Support:
 For questions, feature requests, or contributions, feel free to open an issue or contact us directly.
