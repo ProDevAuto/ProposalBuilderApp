@@ -29,5 +29,21 @@ A **Power Apps model-driven application** designed to streamline the presales pr
 
 ---
 
+## Screenshots
+
+### Proposal Manager Dashboard
+![Proposal Manager Dashboard](screenshots/ProposalManagerDashboard.png)
+
+### Proposal Form
+![Proposal Form](screenshots/ProposalForm.png)
+
+### Estimation Template Form
+![Estimation Template Form](screenshots/EstimationTemplateForm.png)
+
+### Estimation Form Versioning
+![Estimation Form Versioning](screenshots/EstimationFormVersioning.png)
+
+---
+
 ## Support:
 For questions, feature requests, or contributions, feel free to open an issue or contact us directly.
