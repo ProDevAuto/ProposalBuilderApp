@@ -1,6 +1,7 @@
 # Proposal Builder App
 
-A **Power Apps model-driven application** designed to streamline the presales process by simplifying proposal management and project estimation. This app helps sales teams, presales consultants, and project managers collaborate efficiently to create, track, and refine proposals.
+A **Power Apps model-driven application** designed to streamline the presales process by simplifying proposal management and project estimation. This app helps sales teams, presales consultants, and project managers collaborate efficiently to create, track, and refine proposals. 
+Watch the video - https://www.youtube.com/watch?v=vxkuD9e37pQ&list=PLQblSszTOxyzEw0DfkDgI9j_incp4lSYr&index=1
 
 ---
 
